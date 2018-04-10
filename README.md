@@ -9,7 +9,7 @@ pip install consolecolor
 ```
 
 使用：
-```
+```python
 from consolecolor.consolecolor import *
 
 print(FontColor.set_color("hello", Colors.red, underline=True))
