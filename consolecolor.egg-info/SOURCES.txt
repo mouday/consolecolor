@@ -1,8 +1,0 @@
-README.md
-setup.py
-consolecolor/__init__.py
-consolecolor/consolecolor.py
-consolecolor.egg-info/PKG-INFO
-consolecolor.egg-info/SOURCES.txt
-consolecolor.egg-info/dependency_links.txt
-consolecolor.egg-info/top_level.txt
